@@ -1,15 +1,4 @@
-[
-  {
-    "name": "shields.io",
+ {
+    "name": "dzdn",
     "version": "0.0.0",
-    "description": "Shields.io server and frontend",
-    "private": true,
-    "keywords": [
-      "GitHub",
-      "badge",
-      "SVG",
-      "image",
-      "shields.io"
-    ]
   }
-]
